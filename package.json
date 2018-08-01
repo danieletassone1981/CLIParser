@@ -6,7 +6,7 @@
     "node": "7.x"
   },
   "scripts": {
-    "test": "mocha ./testsuite/main.js",
+    "test": "mocha ./testsuite/",
     "build": "tsc || true"
   },
   "watch": {},
