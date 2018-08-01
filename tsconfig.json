@@ -1,0 +1,20 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "sourceMap": true,
+    "allowJs": true,
+    "watch": false,
+    "removeComments": false
+  },
+  "typeRoots": [ "./typings" ],
+  "exclude": [
+    "chromeprofiletest001",
+    "tmp",
+    "node_modules",
+    "public",
+    "task",
+    "module/**/*.js"
+  ]
+}
